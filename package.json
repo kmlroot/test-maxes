@@ -1,0 +1,19 @@
+{
+  "name": "atr-test",
+  "version": "1.0.0",
+  "description": "All the rooms test",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint && mocha"
+  },
+  "author": "Mauricio Serna F < @fmauricios >",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.23.0",
+    "chai": "^4.1.2",
+    "chalk": "^2.3.0",
+    "mocha": "^4.0.1",
+    "standard": "^10.0.3"
+  }
+}
