@@ -3,7 +3,7 @@
 ## Config
 
 ```
-- git clone git@github.com:fmauricios/ATR.git
+- git clone git@github.com:fmauricios/test-maxes.git
 - cd ATR
 
 - Ensure to have Node 8.9.0 (LTS VERSION - you can run the follow command: node -v)
@@ -33,7 +33,7 @@ You can verify that all your code is according with Standard.js running ``` npm 
 
 ### Contributing
 
-1. [Fork it](git@github.com:fmauricios/ATR.git)
+1. [Fork it](git@github.com:fmauricios/test-maxes.git)
 2. Create a branch with your idea: git checkout -b my-idea
 3. Commit your changes: git commit -am 'Add my idea'
 4. Push to the branch: git push origin my-idea
