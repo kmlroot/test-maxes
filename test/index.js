@@ -53,7 +53,7 @@ describe('countLowerOrEqual', function () {
 
     const finalTime = Math.ceil(end - start)
 
-    assert.isBelow(finalTime, 120)
+    assert.isBelow(finalTime, 200)
   })
 
   it('this will be a valid test, because countLowerOrEqual is a function', function () {
